@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\yurge\Desktop\44\Source.cpp(126,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  4 laba.vcxproj -> C:\Users\yurge\Desktop\44\x64\Debug\4 laba.exe
